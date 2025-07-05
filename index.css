@@ -2,10 +2,16 @@
     font-family: Arial, Verdana, sans-serif;
     box-sizing: border-box;
     background-color: #F0E68C;
-    text-align: center;
+    text-align: left;
     list-style: none;
-    margin: 30px 10px;
+    margin: 10px 5px;
     padding: 5px;
+    width: 450px;
+    /* border: 2px solid red; */
+}
+
+li {
+    
 }
 
 li a,
@@ -13,6 +19,7 @@ li a,
 .para {
     background-color: #FFD700;
     border: 2px solid #F08080;
+
 }
 
 .header {
